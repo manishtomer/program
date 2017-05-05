@@ -1,6 +1,6 @@
 
 
-setwd("C:/Users/Manish/Documents/Analytics/Coursera/Assignment/Capstone/dataset/final/en_US")
+setwd("./dataset/final/en_US")
 library(dplyr)
 library(tm)
 library(NLP)
